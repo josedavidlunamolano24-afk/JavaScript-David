@@ -1,3 +1,4 @@
+// Filtrado de tablas
 let filtro = document.getElementById("filtro");
 filtro.addEventListener("keyup", function() {
 
